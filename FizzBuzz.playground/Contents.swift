@@ -13,3 +13,6 @@ for number in numbers {
         print(number)
     }
 }
+
+var name = "Linas"
+print("My name is \(name)")
