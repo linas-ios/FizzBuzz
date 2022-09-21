@@ -13,3 +13,4 @@ for number in numbers {
         print(number)
     }
 }
+var name = "name"
